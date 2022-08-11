@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.cb3e489b.css",
+    "main.js": "/portfolio/static/js/main.c36d3859.js",
+    "static/media/moa_big.png": "/portfolio/static/media/moa_big.26ad69456247114e64d2.png",
+    "static/media/we-care_big.png": "/portfolio/static/media/we-care_big.1386d24590fef40334a7.png",
+    "static/media/home.png": "/portfolio/static/media/home.4bdb51c7899aa3bf6954.png",
+    "static/media/brad_big.png": "/portfolio/static/media/brad_big.affdbbb98bcf67c1dd6e.png",
+    "static/media/daniel.png": "/portfolio/static/media/daniel.a424db9404e9700d5d91.png",
+    "static/media/2gocash_big.png": "/portfolio/static/media/2gocash_big.8064d51fe3858f5194c3.png",
+    "static/media/moa.png": "/portfolio/static/media/moa.db85d4ed2e3feeb02e6f.png",
+    "static/media/irent_big.png": "/portfolio/static/media/irent_big.a5a76c41cea7171cc004.png",
+    "static/media/neclip_big.png": "/portfolio/static/media/neclip_big.0b19d03bd6accf30dd3d.png",
+    "static/media/we-care.png": "/portfolio/static/media/we-care.d8d45df1d7eec9727b5a.png",
+    "static/media/brad.png": "/portfolio/static/media/brad.0e041f3e6c3523293ab9.png",
+    "static/media/2gocash.png": "/portfolio/static/media/2gocash.6ebffefb2d751be62469.png",
+    "static/media/testimonial-2.webp": "/portfolio/static/media/testimonial-2.4c1e7c2fe42e548d2e0f.webp",
+    "static/media/irent.png": "/portfolio/static/media/irent.9bb5f92694e6c675d081.png",
+    "static/media/neclip.png": "/portfolio/static/media/neclip.35430216dc1fc61372cc.png",
+    "static/media/logo.png": "/portfolio/static/media/logo.daa09674bcc895491e6b.png",
+    "static/media/testimonial-3.webp": "/portfolio/static/media/testimonial-3.677360499dd5a97f022a.webp",
+    "static/media/services.svg": "/portfolio/static/media/services.0d43785bd1f41e4d0371.svg",
+    "static/media/portfolio.svg": "/portfolio/static/media/portfolio.bff8b39169bade93c32b.svg",
+    "static/media/testimonials.svg": "/portfolio/static/media/testimonials.7b59b974ba9e396f2d8e.svg",
+    "static/media/contact.svg": "/portfolio/static/media/contact.acdd342ba1db0f98c7cd.svg",
+    "static/media/testimonial-1.webp": "/portfolio/static/media/testimonial-1.8e05fd5dbc71387931b5.webp",
+    "static/media/about.svg": "/portfolio/static/media/about.192e39ff229e6eb06083.svg",
+    "index.html": "/portfolio/index.html",
+    "main.cb3e489b.css.map": "/portfolio/static/css/main.cb3e489b.css.map",
+    "main.c36d3859.js.map": "/portfolio/static/js/main.c36d3859.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb3e489b.css",
+    "static/js/main.c36d3859.js"
+  ]
+}
